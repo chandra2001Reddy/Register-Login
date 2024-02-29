@@ -1,4 +1,4 @@
-**employee-management-system/
+employee-management-system/
 |-- src/
 |   |-- main/
 |       |-- java/
@@ -47,4 +47,4 @@
 				   |-->database
 6.hybernate			---|
 
-}**
+}
